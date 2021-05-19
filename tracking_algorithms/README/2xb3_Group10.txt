@@ -1,0 +1,13 @@
+SFWRENG 2XB3
+
+Group 10
+
+400114912 - Akil Hamilton 	-	Team Leader & Front End Developer
+400148692 - Justin Prez 	- 	Log Admin & Back End Developer
+400137229 - Justin Rosner 	- 	Back End Developer & Implementation Verification
+400128827 - Harshil Modi 	- 	Database Management & Research
+400132487 - Zachary Demelo 	- 	Front End Developer
+
+We attest to the fact that the work being submitted by our group is our own work.
+
+***Note: Please read Group10_DeploymentDocument.pdf before examining project.
